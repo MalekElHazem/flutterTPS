@@ -1,0 +1,1 @@
+ C:\\Users\\2\\AndroidStudioProjects\\flutterTPS\\tp1flutter\\.dart_tool\\flutter_build\\090c2e27dcdedaeb1a52ecb6e49ea93f\\native_assets.yaml: 
